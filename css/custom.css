@@ -1,0 +1,12 @@
+h1 {
+    font-weight: 600;
+}
+
+.box-74 > div {
+    background: linear-gradient(to bottom right, #283F7A, #798fca);
+    color: white;
+}
+
+.box-74 .description-74 {
+    font-size: 2.2rem;
+}
